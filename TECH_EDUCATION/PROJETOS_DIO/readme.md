@@ -2,7 +2,7 @@
 
 
 
-![logoDIO.jpg]
+![telaprojetos](logoDIO.jpg)
 
 **Pré-requisitos:**
 
