@@ -2,9 +2,7 @@
 
 
 
-!logoDIO.jpg
-
-
+![logoDIO.jpg]
 
 **Pré-requisitos:**
 
