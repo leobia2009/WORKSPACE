@@ -2,7 +2,7 @@
 
 
 
-!(logoDIO.jpg)
+!logoDIO.jpg
 
 
 
