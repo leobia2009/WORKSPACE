@@ -2,7 +2,7 @@
 
 
 
-!(logoDIO.png)
+!(logoDIO.jpg)
 
 
 
